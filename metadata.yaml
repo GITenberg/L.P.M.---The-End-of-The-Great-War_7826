@@ -1,0 +1,25 @@
+_repo: L.P.M.---The-End-of-The-Great-War_7826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barney, J. Stewart (John Stewart)
+    alias: Barney, John Stewart
+    deathdate: 1925
+    gutenberg_agent_id: '2546'
+    url: http://www.gutenberg.org/2009/agents/2546
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: 'L.P.M. : The End of The Great War'
+url: http://www.gutenberg.org/ebooks/7826
